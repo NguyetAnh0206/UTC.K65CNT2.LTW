@@ -1,0 +1,14 @@
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\bin\Debug\net10.0\ptna.ltwlession01.exe
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\bin\Debug\net10.0\ptna.ltwlession01.deps.json
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\bin\Debug\net10.0\ptna.ltwlession01.runtimeconfig.json
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\bin\Debug\net10.0\ptna.ltwlession01.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\bin\Debug\net10.0\ptna.ltwlession01.pdb
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.AssemblyInfoInputs.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.AssemblyInfo.cs
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.csproj.CoreCompileInputs.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\refint\ptna.ltwlession01.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.pdb
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ptna.ltwlession01.genruntimeconfig.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.ltwlession01\ptna.ltwlession01\obj\Debug\net10.0\ref\ptna.ltwlession01.dll
