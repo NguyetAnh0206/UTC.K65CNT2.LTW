@@ -1,0 +1,15 @@
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\bin\Debug\net10.0\ptna.qlsvbangoop.exe
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\bin\Debug\net10.0\ptna.qlsvbangoop.deps.json
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\bin\Debug\net10.0\ptna.qlsvbangoop.runtimeconfig.json
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\bin\Debug\net10.0\ptna.qlsvbangoop.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\bin\Debug\net10.0\ptna.qlsvbangoop.pdb
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.AssemblyInfoInputs.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.AssemblyInfo.cs
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.csproj.CoreCompileInputs.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.sourcelink.json
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\refint\ptna.qlsvbangoop.dll
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.pdb
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ptna.qlsvbangoop.genruntimeconfig.cache
+E:\UTC.K65CNT2.LTW\UTC.K65CNT2.LTW\ptna.qlsvbangoop\ptna.qlsvbangoop\obj\Debug\net10.0\ref\ptna.qlsvbangoop.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.qlsvbangoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B2C85A-DADE-353A-B58B-07F4E49AD2B9}|ptna.qlsvbangoop\\ptna.qlsvbangoop.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B2C85A-DADE-353A-B58B-07F4E49AD2B9}|ptna.qlsvbangoop\\ptna.qlsvbangoop.csproj|solutionrelative:ptna.qlsvbangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B2C85A-DADE-353A-B58B-07F4E49AD2B9}|ptna.qlsvbangoop\\ptna.qlsvbangoop.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B2C85A-DADE-353A-B58B-07F4E49AD2B9}|ptna.qlsvbangoop\\ptna.qlsvbangoop.csproj|solutionrelative:ptna.qlsvbangoop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\Student.cs",
+              "RelativeDocumentMoniker": "ptna.qlsvbangoop\\Student.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\Student.cs",
+              "RelativeToolTip": "ptna.qlsvbangoop\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:54:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\Program.cs",
+              "RelativeDocumentMoniker": "ptna.qlsvbangoop\\Program.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.qlsvbangoop\\ptna.qlsvbangoop\\Program.cs*",
+              "RelativeToolTip": "ptna.qlsvbangoop\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8BAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T16:05:50.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
