@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE1506-D28B-4BFD-BB32-12143DF76D74}|ptna.MyApp\\ptna.MyApp.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.myapp\\ptna.myapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BEE1506-D28B-4BFD-BB32-12143DF76D74}|ptna.MyApp\\ptna.MyApp.csproj|solutionrelative:ptna.myapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.MyApp\\ptna.MyApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ptna.MyApp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.MyApp\\ptna.MyApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ptna.MyApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T14:15:27.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
