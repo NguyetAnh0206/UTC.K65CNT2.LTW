@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession03ltw\\ptna.lession03ltw\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F447C2F-A747-46C1-BBE7-544D70F6AB8E}|ptna.lession03ltw\\ptna.lession03ltw.csproj|solutionrelative:ptna.lession03ltw\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ptna.lession03ltw\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T15:46:42.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Program.cs",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Program.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Program.cs",
+              "RelativeToolTip": "ptna.lession03ltw\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:38:37.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ptna.lession03ltw\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T15:32:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Models\\Account.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Models\\Account.cs",
+              "RelativeToolTip": "ptna.lession03ltw\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:44:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "ptna.lession03ltw\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T14:30:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ptna.lession03ltw\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession03ltw\\ptna.lession03ltw\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ptna.lession03ltw\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:30:11.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
