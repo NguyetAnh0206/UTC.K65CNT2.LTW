@@ -1,0 +1,16 @@
+﻿@model IEnumerable<ptna.btvn04.Models.Book>
+
+@foreach (var item in Model)
+{
+    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+        <div class="thumbnail" style="margin-bottom: 20px; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+            <!-- Cố định kích thước ảnh và dùng object-fit: cover để ảnh không bị méo -->
+            <img src="@item.Image" alt="@item.Title" style="width: 100%; height: 250px; object-fit: cover; display: block;" />
+
+            <div class="caption text-center" style="margin-top: 10px;">
+                <h4 style="font-size: 16px; font-weight: bold; height: 40px; overflow: hidden;">@item.Title</h4>
+                <p style="color: #d9534f; font-weight: bold;">Giá: @item.Price</p>
+            </div>
+        </div>
+    </div>
+}
