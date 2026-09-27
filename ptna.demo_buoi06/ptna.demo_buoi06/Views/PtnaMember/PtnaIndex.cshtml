@@ -1,0 +1,53 @@
+@model IEnumerable<ptna.demo_buoi06.Models.PtnaMember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PtnaMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PtnaMemberPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PtnaMemberEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PtnaMemberFullName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.PtnaMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.PtnaMemberPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.PtnaMemberEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.PtnaMemberFullName)
+            </td>
+            <td>
+                    @Html.ActionLink("PtnaEdit", "Edit", new { id = item.PtnaMemberId }) |
+                    @Html.ActionLink("PtnaDetails", "Details", new { id = item.PtnaMemberId }) |
+                    @Html.ActionLink("PtnaDelete", "Delete", new { id = item.PtnaMemberId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

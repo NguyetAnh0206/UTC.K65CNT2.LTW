@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\controllers\\ptnamembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\controllers\\ptnamembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\views\\ptnamember\\ptnaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\views\\ptnamember\\ptnaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\models\\ptnamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\models\\ptnamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\views\\ptnamember\\ptnagetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\views\\ptnamember\\ptnagetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.demo_buoi06\\ptna.demo_buoi06\\views\\home\\ptnaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63882771-DB5B-0660-F356-A116C3618338}|ptna.demo_buoi06\\ptna.demo_buoi06.csproj|solutionrelative:ptna.demo_buoi06\\views\\home\\ptnaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PtnaIndex.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\PtnaMember\\PtnaIndex.cshtml",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Views\\PtnaMember\\PtnaIndex.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\PtnaMember\\PtnaIndex.cshtml",
+              "RelativeToolTip": "ptna.demo_buoi06\\Views\\PtnaMember\\PtnaIndex.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-22T14:52:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PtnaGetDetails.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\PtnaMember\\PtnaGetDetails.cshtml",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Views\\PtnaMember\\PtnaGetDetails.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\PtnaMember\\PtnaGetDetails.cshtml",
+              "RelativeToolTip": "ptna.demo_buoi06\\Views\\PtnaMember\\PtnaGetDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-22T14:17:55.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PtnaMemberController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Controllers\\PtnaMemberController.cs",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Controllers\\PtnaMemberController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Controllers\\PtnaMemberController.cs",
+              "RelativeToolTip": "ptna.demo_buoi06\\Controllers\\PtnaMemberController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T04:21:36.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PtnaMember.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Models\\PtnaMember.cs",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Models\\PtnaMember.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Models\\PtnaMember.cs",
+              "RelativeToolTip": "ptna.demo_buoi06\\Models\\PtnaMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T04:16:58.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ptnaAbout.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\Home\\ptnaAbout.cshtml",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Views\\Home\\ptnaAbout.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\Home\\ptnaAbout.cshtml",
+              "RelativeToolTip": "ptna.demo_buoi06\\Views\\Home\\ptnaAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T04:02:59.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ptna.demo_buoi06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T04:00:53.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ptna.demo_buoi06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.demo_buoi06\\ptna.demo_buoi06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ptna.demo_buoi06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T03:58:27.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
