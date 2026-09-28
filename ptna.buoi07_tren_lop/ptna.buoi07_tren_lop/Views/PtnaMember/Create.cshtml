@@ -1,0 +1,48 @@
+@model ptna.buoi07_tren_lop.Models.PtnaMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PtnaMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PtnaUserName" class="control-label"></label>
+                <input asp-for="PtnaUserName" class="form-control" />
+                <span asp-validation-for="PtnaUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PtnaPassword" class="control-label"></label>
+                <input asp-for="PtnaPassword" class="form-control" />
+                <span asp-validation-for="PtnaPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PtnaEmail" class="control-label"></label>
+                <input asp-for="PtnaEmail" class="form-control" />
+                <span asp-validation-for="PtnaEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PtnaPhone" class="control-label"></label>
+                <input asp-for="PtnaPhone" class="form-control" />
+                <span asp-validation-for="PtnaPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
