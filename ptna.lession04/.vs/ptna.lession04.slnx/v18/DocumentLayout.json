@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession04\\ptna.lession04\\views\\razorcob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|solutionrelative:ptna.lession04\\views\\razorcob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession04\\ptna.lession04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|solutionrelative:ptna.lession04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lession04\\ptna.lession04\\controllers\\razorcobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9048AC-9812-4373-94D5-D9F8F90AAB6E}|ptna.lession04\\ptna.lession04.csproj|solutionrelative:ptna.lession04\\controllers\\razorcobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Views\\RazorCob\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.lession04\\Views\\RazorCob\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Views\\RazorCob\\Index.cshtml",
+              "RelativeToolTip": "ptna.lession04\\Views\\RazorCob\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T20:31:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RazorCobController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Controllers\\RazorCobController.cs",
+              "RelativeDocumentMoniker": "ptna.lession04\\Controllers\\RazorCobController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Controllers\\RazorCobController.cs",
+              "RelativeToolTip": "ptna.lession04\\Controllers\\RazorCobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:31:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ptna.lession04\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.lession04\\ptna.lession04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ptna.lession04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:54:43.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

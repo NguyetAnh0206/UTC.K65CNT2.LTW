@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ptna.btvn04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f379266b074dffe37073e9a6414c83ff73c3fb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7678601637a44c530854d5b29ad0b18abcfb30f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ptna.btvn04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ptna.btvn04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|solutionrelative:ptna.bai_lap_buoi_07\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|solutionrelative:ptna.bai_lap_buoi_07\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|solutionrelative:ptna.bai_lap_buoi_07\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|solutionrelative:ptna.bai_lap_buoi_07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8411F76-35F0-44FD-8EAC-67BDBCC80660}|ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07.csproj|solutionrelative:ptna.bai_lap_buoi_07\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "ptna.bai_lap_buoi_07\\Views\\Account\\Create.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "ptna.bai_lap_buoi_07\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T07:26:41.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ptna.bai_lap_buoi_07\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ptna.bai_lap_buoi_07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:17:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.bai_lap_buoi_07\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "ptna.bai_lap_buoi_07\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T07:13:16.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ptna.bai_lap_buoi_07\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "ptna.bai_lap_buoi_07\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:11:14.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ptna.bai_lap_buoi_07\\Models\\Account.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bai_lap_buoi_07\\ptna.bai_lap_buoi_07\\Models\\Account.cs*",
+              "RelativeToolTip": "ptna.bai_lap_buoi_07\\Models\\Account.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:03:00.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

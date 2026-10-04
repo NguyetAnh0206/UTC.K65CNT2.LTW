@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\views\\shared\\_ptnaheaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\views\\shared\\_ptnaheaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\views\\shared\\_ptnafooterpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\views\\shared\\_ptnafooterpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\views\\shared\\_ptnabannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\views\\shared\\_ptnabannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\viewcomponents\\ptnacategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\viewcomponents\\ptnacategoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\models\\ptnacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\models\\ptnacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.bt05\\ptna.bt05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E427919-FA7B-4A5B-A5B5-51281A6D36A0}|ptna.bt05\\ptna.bt05.csproj|solutionrelative:ptna.bt05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PtnaHeaderPartialView.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaHeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "ptna.bt05\\Views\\Shared\\_PtnaHeaderPartialView.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaHeaderPartialView.cshtml",
+              "RelativeToolTip": "ptna.bt05\\Views\\Shared\\_PtnaHeaderPartialView.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T21:19:00.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_PtnaFooterPartialView.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaFooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "ptna.bt05\\Views\\Shared\\_PtnaFooterPartialView.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaFooterPartialView.cshtml",
+              "RelativeToolTip": "ptna.bt05\\Views\\Shared\\_PtnaFooterPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T21:17:50.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PtnaBannerPartialView.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaBannerPartialView.cshtml",
+              "RelativeDocumentMoniker": "ptna.bt05\\Views\\Shared\\_PtnaBannerPartialView.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Shared\\_PtnaBannerPartialView.cshtml",
+              "RelativeToolTip": "ptna.bt05\\Views\\Shared\\_PtnaBannerPartialView.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T21:16:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ptna.bt05\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ptna.bt05\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T21:10:42.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PtnaCategoryViewComponent.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\ViewComponents\\PtnaCategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "ptna.bt05\\ViewComponents\\PtnaCategoryViewComponent.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\ViewComponents\\PtnaCategoryViewComponent.cs",
+              "RelativeToolTip": "ptna.bt05\\ViewComponents\\PtnaCategoryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T21:03:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PtnaCategory.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Models\\PtnaCategory.cs",
+              "RelativeDocumentMoniker": "ptna.bt05\\Models\\PtnaCategory.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Models\\PtnaCategory.cs",
+              "RelativeToolTip": "ptna.bt05\\Models\\PtnaCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T20:59:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ptna.bt05\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.bt05\\ptna.bt05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ptna.bt05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T20:56:50.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
