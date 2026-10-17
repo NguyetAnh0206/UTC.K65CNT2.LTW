@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\ptna.lap07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\ptna.lap07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\ptna.lap07\\ptna.lap07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{554C5615-6FA5-461C-8181-91A857B59C5A}|ptna.Lap07\\ptna.Lap07.csproj|solutionrelative:ptna.lap07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T16:00:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T15:54:57.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ptna.Lap07\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:50:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Program.cs",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Program.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Program.cs",
+              "RelativeToolTip": "ptna.Lap07\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:44:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T15:42:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:41:10.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:57:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:55:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:54:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ptna.Lap07",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\ptna.Lap07.csproj",
+              "RelativeDocumentMoniker": "ptna.Lap07\\ptna.Lap07.csproj",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\ptna.Lap07.csproj",
+              "RelativeToolTip": "ptna.Lap07\\ptna.Lap07.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T17:49:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:40:44.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_main.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Shared\\_main.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Views\\Shared\\_main.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Shared\\_main.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Views\\Shared\\_main.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:39:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:37:18.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ptna.Lap07\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\ptna.Lap07\\ptna.Lap07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ptna.Lap07\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:32:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
