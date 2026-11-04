@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ptna.lab5.Models.Major>
+
+<ul>
+    @foreach (var m in Model)
+    {
+        <li>
+            <a href="#" class="major-item"
+               data-id="@m.MajorID">
+                @m.MajorName
+            </a>
+        </li>
+    }
+</ul>
