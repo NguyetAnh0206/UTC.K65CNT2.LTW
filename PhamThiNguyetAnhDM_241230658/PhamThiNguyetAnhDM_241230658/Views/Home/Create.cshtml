@@ -1,0 +1,52 @@
+﻿@model PhamThiNguyetAnhDM_241230658.Models.Sach
+@{
+    ViewData["Title"] = "Thêm sách mới";
+}
+<main class="main">
+    <div class="container">
+        <div class="section-head">
+            <h3>PHẠM THỊ NGUYỆT ANH - THÊM SÁCH MỚI</h3>
+            <a asp-controller="Home" asp-action="Index">&lsaquo; Quay lại trang chủ</a>
+        </div>
+
+        <form asp-action="Create" method="post" style="max-width: 500px; margin: 20px 0;">
+            @Html.AntiForgeryToken()
+
+            <div asp-validation-summary="ModelOnly" class="text-danger" style="color: red; margin-bottom: 10px;"></div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="MaTl" style="display: block; font-weight: 600; margin-bottom: 4px;">Thể loại (MaTL)</label>
+                <select asp-for="MaTl" asp-items="ViewBag.MaTl" style="width: 100%; padding: 8px;">
+                    <option value="">-- Chọn thể loại --</option>
+                </select>
+                <span asp-validation-for="MaTl" style="color: red; font-size: 13px;"></span>
+            </div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="TenSach" style="display: block; font-weight: 600; margin-bottom: 4px;">Tên sách</label>
+                <input asp-for="TenSach" type="text" style="width: 100%; padding: 8px;" />
+                <span asp-validation-for="TenSach" style="color: red; font-size: 13px;"></span>
+            </div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="Gia" style="display: block; font-weight: 600; margin-bottom: 4px;">Giá</label>
+                <input asp-for="Gia" type="text" style="width: 100%; padding: 8px;" />
+                <span asp-validation-for="Gia" style="color: red; font-size: 13px;"></span>
+            </div>
+
+            <div style="margin-bottom: 16px;">
+                <label asp-for="Anh" style="display: block; font-weight: 600; margin-bottom: 4px;">Ảnh (tên file ảnh)</label>
+                <input asp-for="Anh" type="text" placeholder="vd: sach-moi.jpg" style="width: 100%; padding: 8px;" />
+                <span asp-validation-for="Anh" style="color: red; font-size: 13px;"></span>
+            </div>
+
+            <button type="submit" class="btn-buy" style="padding: 10px 24px; cursor: pointer;">Create</button>
+        </form>
+    </div>
+</main>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

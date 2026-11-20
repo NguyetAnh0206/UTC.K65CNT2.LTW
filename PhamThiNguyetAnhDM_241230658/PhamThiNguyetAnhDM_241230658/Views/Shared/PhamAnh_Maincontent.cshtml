@@ -1,0 +1,22 @@
+﻿@model IEnumerable<PhamThiNguyetAnhDM_241230658.Models.Sach>
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <div class="banner"><img src="~/images/banner.jpg" alt="Banner" /></div>
+
+        <!-- Sách mới -->
+        <div class="section-head">
+            <h3 id="main-section-title">Phạm Thị Nguyệt Anh</h3>
+            <div>
+                <a asp-controller="Home" asp-action="Create" style="margin-right: 12px;">Thêm sách mới</a>
+                <a href="#">Xem tất cả &rsaquo;</a>
+            </div>
+            
+        </div>
+        <div id="book-list-container">
+            @await Html.PartialAsync("_DanhSachSachPartial", Model)
+        </div>
+        
+    </div>
+</main>
+<!-- End Main Content -->

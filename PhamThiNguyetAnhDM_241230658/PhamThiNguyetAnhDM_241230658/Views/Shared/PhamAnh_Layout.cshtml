@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - BookHub - Nhà sách trực tuyến</title>
+    <link href="~/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    @await Html.PartialAsync("PhamAnh_Header")
+
+    @RenderBody()
+
+    @await Html.PartialAsync("PhamAnh_Footer")
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+            $(document).ready(function () {
+                $(document).on("click", ".nav-category-item", function (e) {
+                    e.preventDefault();
+
+                    var maTl = $(this).data("ma-tl");
+                    var tenTl = $(this).data("ten-tl");
+
+                    $(".menu li").removeClass("active");
+                    $(this).closest("li").addClass("active");
+
+                    if (tenTl) {
+                        $("#main-section-title").text(tenTl);
+                    }
+                    $.ajax({
+                        url: '@Url.Action("LocSachTheoTheLoai", "Home")',
+                        type: 'GET',
+                        data: { maTl: maTl },
+                        success: function (result) {
+                            $("#book-list-container").html(result);
+                        },
+                        error: function () {
+                            alert("Không tải được danh sách sách theo thể loại.");
+                        }
+                    });
+                });
+            });
+    </script>
+</body>
+</html>

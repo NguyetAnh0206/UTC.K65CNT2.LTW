@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\phamanh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\phamanh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\components\\theloainav\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\components\\theloainav\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\phamanh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\phamanh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\_danhsachsachpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\_danhsachsachpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\phamanh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\phamanh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\viewcomponents\\theloainavviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\viewcomponents\\theloainavviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\wwwroot\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\wwwroot\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|e:\\utc.k65cnt2.ltw\\utc.k65cnt2.ltw\\phamthinguyetanhdm_241230658\\phamthinguyetanhdm_241230658\\views\\shared\\phamanh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F1D38-30D1-45CE-9D3B-3F3F3D25F098}|PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj|solutionrelative:phamthinguyetanhdm_241230658\\views\\shared\\phamanh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Home\\Create.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T09:53:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Models\\Sach.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Models\\Sach.cs",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Models\\Sach.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:22:41.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_DanhSachSachPartial.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\_DanhSachSachPartial.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\_DanhSachSachPartial.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\_DanhSachSachPartial.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\_DanhSachSachPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T09:05:47.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:40:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\Components\\TheLoaiNav\\Default.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\Components\\TheLoaiNav\\Default.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\Components\\TheLoaiNav\\Default.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\Components\\TheLoaiNav\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T08:27:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TheLoaiNavViewComponent.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\ViewComponents\\TheLoaiNavViewComponent.cs",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\ViewComponents\\TheLoaiNavViewComponent.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\ViewComponents\\TheLoaiNavViewComponent.cs",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\ViewComponents\\TheLoaiNavViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:16:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Program.cs",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Program.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Program.cs",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:05:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLNhaSachContext.cs",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Models\\QLNhaSachContext.cs",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Models\\QLNhaSachContext.cs",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Models\\QLNhaSachContext.cs",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Models\\QLNhaSachContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:01:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhamThiNguyetAnhDM_241230658",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T07:56:08.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:44:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:43:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhamAnh_Maincontent.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Maincontent.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Maincontent.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Maincontent.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Maincontent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:34:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhamAnh_Footer.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Footer.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Footer.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Footer.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:33:34.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhamAnh_Header.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Header.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Header.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Header.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:33:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhamAnh_Layout.cshtml",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Layout.cshtml",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Layout.cshtml",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\Views\\Shared\\PhamAnh_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T07:32:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\js\\jquery.min.js",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\wwwroot\\js\\jquery.min.js",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\js\\jquery.min.js",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\wwwroot\\js\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-20T07:25:56.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-20T07:18:25.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "layout.css",
+              "DocumentMoniker": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\layout.css",
+              "RelativeDocumentMoniker": "PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\layout.css",
+              "ToolTip": "E:\\UTC.K65CNT2.LTW\\UTC.K65CNT2.LTW\\PhamThiNguyetAnhDM_241230658\\PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\layout.css",
+              "RelativeToolTip": "PhamThiNguyetAnhDM_241230658\\wwwroot\\css\\layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-20T07:17:33.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

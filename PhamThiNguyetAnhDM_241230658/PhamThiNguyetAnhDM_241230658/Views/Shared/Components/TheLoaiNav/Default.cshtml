@@ -1,0 +1,12 @@
+﻿@model IEnumerable<PhamThiNguyetAnhDM_241230658.Models.TheLoai>
+<ul class="menu">
+    <li class="active">
+        <a href="javascript:void(0)" class="nav-home" data-ma-tl="">Phạm Thị Nguyệt Anh</a>
+    </li>
+    @foreach (var tl in Model)
+    {
+        <li>
+            <a href="javascript:void(0)" class="nav-category-item" data-ma-tl="@tl.MaTl" data-ten-tl="@tl.TenTl">@tl.TenTl</a>
+        </li>
+    }
+</ul>
