@@ -1,0 +1,49 @@
+﻿<!DOCTYPE HTML>
+<html lang="vi">
+<head>
+	<title>@ViewData["Title"] - Home Shoppe</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+	<!-- Begin Wrap -->
+	<div class="wrap">
+		@await Html.PartialAsync("PhamAnh_Header")
+
+		@RenderBody()
+	</div>
+	<!-- End Wrap -->
+	@await Html.PartialAsync("PhamAnh_Footer")
+
+	<script src="~/js/jquery-1.7.2.min.js"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+	<script>
+			$(document).ready(function() {
+				$(document).on("click", ".nav-loai-item", function(e) {
+					e.preventDefault();
+
+					var maLoai = $(this).data("ma-loai");
+					var tenLoai = $(this).data("ten-loai");
+
+					$(".menu li").removeClass("active");
+					$(this).closest("li").addClass("active");
+
+					if (tenLoai) {
+						$("#main-title").text(tenLoai);
+					}
+
+					$.ajax({
+						url: '@Url.Action("LocTheoLoai", "Home")',
+						type: 'GET',
+						data: { maLoai: maLoai },
+						success: function(result) {
+							$("#hang-hoa-container").html(result);
+						}
+					});
+				});
+			});
+	</script>
+
+</body>
+</html>

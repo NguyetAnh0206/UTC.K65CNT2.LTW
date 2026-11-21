@@ -1,0 +1,59 @@
+﻿@model PhamThiNguyetAnh_QLHH_241230658.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Thêm Hàng Hóa Mới";
+}
+
+<div class="main">
+    <div class="content">
+        <div class="content_top">
+            <div class="heading">
+                <h3>PHẠM THỊ NGUYỆT ANH</h3>
+            </div>
+            <div class="see">
+                <p><a asp-controller="Home" asp-action="Index">Quay lại</a></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <h4>Thêm Hàng Hóa Mới</h4>
+
+        <form asp-action="Create" method="post" style="margin-top: 15px;">
+            @Html.AntiForgeryToken()
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="MaLoai" style="display:block; font-weight:bold;">MaLoai</label>
+                <select asp-for="MaLoai" asp-items="ViewBag.MaLoai" style="padding: 6px; min-width: 220px;">
+                    <option value="">-- Chọn loại hàng --</option>
+                </select>
+                <span asp-validation-for="MaLoai" style="color: red; display:block;"></span>
+            </div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="TenHang" style="display:block; font-weight:bold;">TenHang</label>
+                <input asp-for="TenHang" type="text" style="padding: 6px; width: 280px;" />
+                <span asp-validation-for="TenHang" style="color: red; display:block;"></span>
+            </div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="Gia" style="display:block; font-weight:bold;">Gia</label>
+                <input asp-for="Gia" type="text" style="padding: 6px; width: 280px;" />
+                <span asp-validation-for="Gia" style="color: red; display:block;"></span>
+            </div>
+
+            <div style="margin-bottom: 12px;">
+                <label asp-for="Anh" style="display:block; font-weight:bold;">Anh</label>
+                <input asp-for="Anh" type="text" style="padding: 6px; width: 280px;" />
+                <span asp-validation-for="Anh" style="color: red; display:block;"></span>
+            </div>
+
+            <button type="submit" style="padding: 8px 18px; cursor: pointer;">Create</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
