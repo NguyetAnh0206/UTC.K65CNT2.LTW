@@ -1,0 +1,17 @@
+﻿@model IEnumerable<PhamThiNguyetAnh_QLTS2_241230658.Models.TaiSan>
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <div class="banner"><img src="~/images/banner.jpg" alt="Banner" /></div>
+
+        <div class="section-head">
+            <h3 id="main-section-title">PHẠM THỊ NGUYỆT ÁNH</h3>
+            <a href="#">Xem tất cả &rsaquo;</a>
+        </div>
+
+        <div id="tai-san-list-container">
+            @await Html.PartialAsync("_DanhSachTaiSanPartial", Model)
+        </div>
+    </div>
+</main>
+<!-- End Main Content -->

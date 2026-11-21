@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - AssetHub</title>
+    <link href="~/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    @await Html.PartialAsync("PhamAnh_Header")
+
+    @RenderBody()
+
+    @await Html.PartialAsync("PhamAnh_Footer")
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/main.js"></script>
+
+    <script>
+            $(document).ready(function() {
+                $(document).on("click", ".nav-loai-item", function(e) {
+                    e.preventDefault();
+
+                    var maLoai = $(this).data("ma-loai");
+                    var tenLoai = $(this).data("ten-loai");
+
+                    $(".menu li").removeClass("active");
+                    $(this).closest("li").addClass("active");
+
+                    if (tenLoai) {
+                        $("#main-section-title").text(tenLoai);
+                    }
+
+                    $.ajax({
+                        url: '@Url.Action("LocTheoLoai", "Home")',
+                        type: 'GET',
+                        data: { maLoai: maLoai },
+                        success: function(result) {
+                            $("#tai-san-list-container").html(result);
+                        }
+                    });
+                });
+            });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

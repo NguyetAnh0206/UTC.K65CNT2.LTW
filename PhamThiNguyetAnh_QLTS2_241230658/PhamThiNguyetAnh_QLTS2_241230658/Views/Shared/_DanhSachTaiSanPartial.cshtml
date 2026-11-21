@@ -1,0 +1,24 @@
+﻿@model IEnumerable<PhamThiNguyetAnh_QLTS2_241230658.Models.TaiSan>
+@if (Model != null && Model.Any())
+{
+    <div class="grid">
+        @foreach (var ts in Model)
+        {
+            <div class="asset-card">
+                <a href="#"><img src="~/images/@ts.Anh" alt="@ts.TenTs" /></a>
+                <h2>@ts.TenTs</h2>
+                <div class="asset-foot">
+                    <span class="price">@ts.NguyenGia tr</span>
+                    <div style="display: flex; gap: 6px;">
+                        <a asp-controller="Home" asp-action="Edit" asp-route-id="@ts.MaTs" class="btn-buy">Sửa</a>
+                        <button type="button" class="btn-buy">Chi tiết</button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>Không có tài sản nào phù hợp.</p>
+}
