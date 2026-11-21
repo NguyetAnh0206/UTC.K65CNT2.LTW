@@ -1,0 +1,16 @@
+﻿@model IEnumerable<PhamThiNguyetAnh_QLTS1_241230658.Models.LoaiTaiSan>
+<ul class="menu">
+    <li class="active">
+        <a href="javascript:void(0)" class="nav-loai-item" data-ma-loai="" data-ten-loai="Phạm Thị Nguyệt Anh">
+            Phạm Thị Nguyệt Anh
+        </a>
+    </li>
+    @foreach (var loai in Model)
+    {
+        <li>
+            <a href="javascript:void(0)" class="nav-loai-item" data-ma-loai="@loai.MaLoai" data-ten-loai="@loai.TenLoai">
+                @loai.TenLoai
+            </a>
+        </li>
+    }
+</ul>
